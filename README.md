@@ -4,7 +4,7 @@ This is my first github repository.
 
 ## Curiosity
 
-I think about that;How HTML, CSS and JavScript merges to form a website?
+I think about that;How HTML, CSS and JavaScript merges to form a website?
 
 ## Solution
 
